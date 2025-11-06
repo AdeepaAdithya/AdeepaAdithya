@@ -2,7 +2,7 @@
 
 <div align="center" style="background:#05060a; padding:18px; border-radius:12px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=720&lines=⚡+Adeepa+Adithya+⚡;CEH+Student+%7C+Dark+Hacker;Permission+First+%7C+Skills+Second" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=720&lines=⚡+Adeepa+Adithya+⚡;CEH+Student+%7C+Ethical+Hacker;Permission+First+%7C+Skills+Second" />
 
 <br/>
 
