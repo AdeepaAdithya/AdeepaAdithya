@@ -1,6 +1,6 @@
 
-<div align="center" style="background:#05060a; padding:18px; border-radius:12px;color:#00ffd1;">
-<h1 style="color:#00FFD1;">Adeepa Adithya</h1>
+<div align="center" style="background:#05060a; padding:18px; border-radius:12px;">
+<h1 style="color:red;">Adeepa Adithya</h1>
 <h3>CEH Student |  Ethical Hacker</h3>
 <h6>Permission First , Skills Second</h6>
 <br/>
