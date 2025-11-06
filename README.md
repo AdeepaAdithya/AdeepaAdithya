@@ -10,7 +10,7 @@
 </div>
 
 
-### 🧠 About
+### 🥷 About
 **Adeepa Adithya** — CEH student. Future threat hunter. Ethical by default, curious by design.
 
 **Focus:** Pentesting · Network Security · Malware basics · SOC fundamentals
