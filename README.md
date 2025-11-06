@@ -4,7 +4,7 @@
 <h3>CEH Student |  Ethical Hacker</h3>
 <h6>Permission First , Skills Second</h6>
 <br/>
-<img src="assets/brainchip.gif" alt="night-scan" width="25%" style="border-radius:8px; margin-top:12px;"/>
+<img src="assets/rotating-globe.gif" alt="night-scan" width="25%" style="border-radius:8px; margin-top:12px;"/>
 <img src="assets/night-scan.gif" alt="night-scan" width="100%" style="border-radius:8px; margin-top:12px;"/>
 
 </div>
@@ -32,6 +32,6 @@
 | Programming | Python • Java • C++ |
 | Labs & Practice | TryHackMe • HTB • Kali |
 
-<img src="assets/night-scan.gif" alt="night-scan" width="100%" style="border-radius:8px; margin-top:12px;"/>
+<img src="assets/dark-hacker-footer.gif" alt="night-scan" width="100%" style="border-radius:8px; margin-top:12px;"/>
 
 
