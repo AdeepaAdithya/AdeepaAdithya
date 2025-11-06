@@ -36,20 +36,4 @@
 
 ---
 
-### 🔊 System Boot (optional)
-> To include the boot sound, upload `assets/boot.mp3` to the repo and link it in a GitHub Pages index.html. (README cannot autoplay sound.)
-
-**Placeholder path:** `assets/boot.mp3`
-
----
-
-### 📊 GitHub Stats
-<!--
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdeepaAdithya&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeepaAdithya&layout=compact&theme=dark" />
-</p>
--->
----
-
 
