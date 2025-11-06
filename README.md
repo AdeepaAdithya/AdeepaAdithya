@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ### 🧠 About
 **Adeepa Adithya** — CEH student. Future threat hunter. Ethical by default, curious by design.
