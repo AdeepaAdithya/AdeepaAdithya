@@ -1,8 +1,10 @@
 <!-- DARK HACKER — Futuristic Cyber README -->
 
 <div align="center" style="background:#05060a; padding:18px; border-radius:12px;">
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFD1&center=true&vCenter=true&width=720&lines=⚡+Adeepa+Adithya+⚡;CEH+Student+%7C+Ethical+Hacker;Permission+First+%7C+Skills+Second" />
+<h1 color="00FFD1">Adeepa Adithya<h1> 
+<h3>CEH Student |  Ethical Hacker<h3>
+<h6>Permission First , Skills Second<h6>
+<img src="https://readme-typing-svg.herokuapp.com?color=&center=true&vCenter=true&width=720&lines=⚡+Adeepa+Adithya+⚡;CEH+Student+%7C+Ethical+Hacker;Permission+First+%7C+Skills+Second" />
 
 <br/>
 
