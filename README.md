@@ -25,7 +25,7 @@
 
 <img src="assets/night-scan.gif" alt="night-scan" width="100%" style="border-radius:8px; margin-top:12px;"/>
 
-###  Skill Matrix (Dark)
+###  Skill Matrix
 | Area | Tools |
 |-----:|:-----|
 | Pentesting | Nmap • Metasploit • Burp Suite |
