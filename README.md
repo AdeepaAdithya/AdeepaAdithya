@@ -10,21 +10,21 @@
 </div>
 
 
-### 🥷 About
+###  About
 **Adeepa Adithya** — CEH student. Future threat hunter. Ethical by default, curious by design.
 
 **Focus:** Pentesting · Network Security · Malware basics · SOC fundamentals
 
 <img src="assets/night-scan.gif" alt="night-scan" width="100%" style="border-radius:8px; margin-top:12px;"/>
 
-### 🧰 Tech & Tools
+###  Tech & Tools
 **Languages:** Python • Java • C++  
 **Pentest Tools:** Nmap • Metasploit • Burp Suite • Hydra • Wireshark  
 **OS / Labs:** Kali Linux • Parrot • TryHackMe • HackTheBox
 
 <img src="assets/night-scan.gif" alt="night-scan" width="100%" style="border-radius:8px; margin-top:12px;"/>
 
-### ⚙️ Skill Matrix (Dark)
+###  Skill Matrix (Dark)
 | Area | Tools |
 |-----:|:-----|
 | Pentesting | Nmap • Metasploit • Burp Suite |
